@@ -9,7 +9,7 @@
   
 ## 💻Tecnologias:
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,pug,nodejs,express,react,git,github,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,,nodejs,express,react,git,github,,vscode)](https://skillicons.dev)
 
 ## 📊GitHub Stats :
 
